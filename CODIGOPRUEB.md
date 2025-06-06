@@ -108,6 +108,6 @@ En 1937, al saber que había hecho algunas canciones que cantábamos los jugador
 
 <a href=#menu><img src="menu.png" width=50 heigth=50 align="right"></a>
 
-/body>
+</body>
 
-/html>
+</html>
